@@ -1,0 +1,60 @@
+[
+  {
+    "id": "797c49da-40c7-4d80-86be-3a2fc646b469",
+    "data": [
+      {
+        "text": "where is ",
+        "userDefined": false
+      },
+      {
+        "text": "arturo",
+        "alias": "arturo",
+        "meta": "@Arturo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e28587b8-3db8-49d1-8815-0915b9a6284c",
+    "data": [
+      {
+        "text": "Speak to the ",
+        "userDefined": false
+      },
+      {
+        "text": "director",
+        "alias": "arturo",
+        "meta": "@Arturo",
+        "userDefined": false
+      },
+      {
+        "text": " of royal mint",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7c6a6907-ce1d-454c-80ee-d869d48e0bad",
+    "data": [
+      {
+        "text": "Talk to mr. ",
+        "userDefined": false
+      },
+      {
+        "text": "roman",
+        "alias": "arturo",
+        "meta": "@Arturo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "id": "b2222403-1666-4b97-90b7-ed1de185e5ce",
+  "name": "Oslo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b26211db-cab5-43ce-8959-3980cef47ea2",
+          "required": true,
+          "dataType": "@Oslo",
+          "name": "oslo",
+          "value": "$oslo",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "talk to oslo"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

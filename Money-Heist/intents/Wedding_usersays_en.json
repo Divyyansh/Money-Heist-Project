@@ -1,0 +1,26 @@
+[
+  {
+    "id": "34aaabb4-c01c-4091-90b9-75166320464a",
+    "data": [
+      {
+        "text": "Wedding",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "e49dc594-4f65-4dbb-a13c-35eec9dc825a",
+    "data": [
+      {
+        "text": "Marriage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "id": "5ab46938-38ee-4862-9a70-dbc5b98bfd36",
+  "name": "Nairobi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c0dfa9eb-5647-418d-bd06-39f0a965160e",
+          "required": true,
+          "dataType": "@Nairobi",
+          "name": "nairobi",
+          "value": "$nairobi",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "talk to nairobi"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

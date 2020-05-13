@@ -1,0 +1,38 @@
+[
+  {
+    "id": "c902929e-c2c8-496e-887d-e30375f1b058",
+    "data": [
+      {
+        "text": "Daring",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "40dd8e86-dbc7-4de8-9122-da80dae21f51",
+    "data": [
+      {
+        "text": "Anger",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a457309a-5b5e-490c-b2b8-c656cb649e1e",
+    "data": [
+      {
+        "text": "Angry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

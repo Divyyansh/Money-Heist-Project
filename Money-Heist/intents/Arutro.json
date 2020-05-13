@@ -1,0 +1,50 @@
+{
+  "id": "b57ec7a3-a885-425f-bf9f-4c432b134985",
+  "name": "Arutro",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ea016b07-1977-4ac4-b7e4-e7a64935e21b",
+          "required": true,
+          "dataType": "@Arturo",
+          "name": "arturo",
+          "value": "$arturo",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Talk to arturo"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "679ec42c-8f17-4514-a76f-700c82818add",
+    "data": [
+      {
+        "text": "Talk to ",
+        "userDefined": false
+      },
+      {
+        "text": "anibal cortes",
+        "alias": "rio",
+        "meta": "@Rio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d0327045-bce1-40db-8d11-f70c80d4615a",
+    "data": [
+      {
+        "text": "Speak to ",
+        "userDefined": false
+      },
+      {
+        "text": "coder",
+        "alias": "rio",
+        "meta": "@Rio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2fea4b36-f731-4ab1-86dd-7a63a397c41e",
+    "data": [
+      {
+        "text": "I like the ",
+        "userDefined": false
+      },
+      {
+        "text": "hacker",
+        "alias": "rio",
+        "meta": "@Rio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "231282f5-ef89-48e1-b0ff-ecb3d27be4d7",
+    "data": [
+      {
+        "text": "Talk to ",
+        "userDefined": false
+      },
+      {
+        "text": "prisoner",
+        "alias": "rio",
+        "meta": "@Rio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

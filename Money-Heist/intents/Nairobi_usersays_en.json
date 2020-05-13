@@ -1,0 +1,38 @@
+[
+  {
+    "id": "352f7ca2-b355-4e16-9ba5-b1176c1b7dad",
+    "data": [
+      {
+        "text": "call ",
+        "userDefined": false
+      },
+      {
+        "text": "alba flores",
+        "alias": "nairobi",
+        "meta": "@Nairobi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "af6e949c-9c46-43af-8ac9-097bcfa4bc41",
+    "data": [
+      {
+        "text": "talk to ",
+        "userDefined": false
+      },
+      {
+        "text": "printing incharge",
+        "alias": "nairobi",
+        "meta": "@Nairobi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

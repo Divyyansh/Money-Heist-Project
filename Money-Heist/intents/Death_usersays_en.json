@@ -1,0 +1,38 @@
+[
+  {
+    "id": "a0989ba9-7358-4837-8868-8c97477414fa",
+    "data": [
+      {
+        "text": "end",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "46f0a143-002c-421f-9152-cb12a0f50e31",
+    "data": [
+      {
+        "text": "dying",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "183078eb-365d-4ebc-833b-dc08549cf058",
+    "data": [
+      {
+        "text": "Death",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

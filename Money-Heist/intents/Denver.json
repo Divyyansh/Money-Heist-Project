@@ -1,0 +1,50 @@
+{
+  "id": "3daa7caf-6149-4e49-9070-06c1df472643",
+  "name": "Denver",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f11e1beb-7a37-48e6-860c-8b86c261b706",
+          "required": true,
+          "dataType": "@Denver",
+          "name": "denver",
+          "value": "$denver",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "talk to denver"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

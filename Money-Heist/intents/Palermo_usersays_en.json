@@ -1,0 +1,70 @@
+[
+  {
+    "id": "0f9227da-16b1-46e9-8111-fdaede1a1cf1",
+    "data": [
+      {
+        "text": "Palermo",
+        "alias": "Palermo",
+        "meta": "@Palermo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "16e88b46-d2cd-4e9e-a840-b55eea25420f",
+    "data": [
+      {
+        "text": "Speak to ",
+        "userDefined": false
+      },
+      {
+        "text": "commanding officer",
+        "alias": "Palermo",
+        "meta": "@Palermo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aa190562-b5a2-4fb4-854d-51292b10ac70",
+    "data": [
+      {
+        "text": "Bring me ",
+        "userDefined": false
+      },
+      {
+        "text": "palermo",
+        "alias": "Palermo",
+        "meta": "@Palermo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "203d2785-e207-4177-8d91-a1c97d040daa",
+    "data": [
+      {
+        "text": "Talk to ",
+        "userDefined": false
+      },
+      {
+        "text": "martin",
+        "alias": "Palermo",
+        "meta": "@Palermo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "eaed816b-3721-4863-ae20-4684c624ba04",
+    "data": [
+      {
+        "text": "Smiling",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db951752-d320-4d3d-af3b-f42835f3bf8a",
+    "data": [
+      {
+        "text": "Laugh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e1a9fbe8-2119-4690-af06-75127692845b",
+    "data": [
+      {
+        "text": "Laughing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

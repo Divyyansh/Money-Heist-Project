@@ -1,0 +1,50 @@
+{
+  "id": "abed9dc2-38d4-4606-9a56-f5d5f200d269",
+  "name": "Moscow",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0a9e7068-2bab-4b34-a954-1b84a8d148e0",
+          "required": true,
+          "dataType": "@Moscow",
+          "name": "moscow",
+          "value": "$moscow",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "talk to moscow"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

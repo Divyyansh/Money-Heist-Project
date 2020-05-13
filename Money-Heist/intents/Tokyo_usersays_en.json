@@ -1,0 +1,74 @@
+[
+  {
+    "id": "20325759-8899-4498-854a-810c0fb84176",
+    "data": [
+      {
+        "text": "i like ",
+        "userDefined": false
+      },
+      {
+        "text": "silene oliveira",
+        "alias": "tokyo",
+        "meta": "@Tokyo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1cb68823-292b-460e-90c3-51aa8937d2ca",
+    "data": [
+      {
+        "text": "talk to ",
+        "userDefined": false
+      },
+      {
+        "text": "unpredictable",
+        "alias": "tokyo",
+        "meta": "@Tokyo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ba9765e5-2773-459a-a354-d80e3910cef2",
+    "data": [
+      {
+        "text": "speak to ",
+        "userDefined": false
+      },
+      {
+        "text": "silene",
+        "alias": "tokyo",
+        "meta": "@Tokyo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f3a29e98-9dc7-4618-b201-237611003da2",
+    "data": [
+      {
+        "text": "talk to ",
+        "userDefined": false
+      },
+      {
+        "text": "tokio",
+        "alias": "tokyo",
+        "meta": "@Tokyo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

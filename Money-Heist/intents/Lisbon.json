@@ -1,0 +1,50 @@
+{
+  "id": "fd307ed6-2185-4b67-8bb4-48e00a60e740",
+  "name": "Lisbon",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a63f7311-a536-45fc-87f0-550d78e829b9",
+          "required": true,
+          "dataType": "@Raquel",
+          "name": "raquel",
+          "value": "$raquel",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Talk to raquel"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

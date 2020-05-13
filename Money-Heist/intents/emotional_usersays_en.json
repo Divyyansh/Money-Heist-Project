@@ -1,0 +1,66 @@
+[
+  {
+    "id": "6376c142-db18-4929-ac69-7cac6429ba16",
+    "data": [
+      {
+        "text": "he is very emotional",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3abee2cd-7191-4d1f-b96a-c0cbe212c2c7",
+    "data": [
+      {
+        "text": "emotional",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "85154f5d-abbc-41b7-a49c-43ce61eafee6",
+    "data": [
+      {
+        "text": "professor",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "emotional",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "75ae9fea-b10b-4faa-8496-6cb642c829f0",
+    "data": [
+      {
+        "text": "he is ",
+        "userDefined": false
+      },
+      {
+        "text": "crying",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

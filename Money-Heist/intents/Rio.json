@@ -1,0 +1,50 @@
+{
+  "id": "d36096cf-2241-4d7b-a004-44ff181b2196",
+  "name": "Rio",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f88a39f5-8728-46ae-95bd-e6e0112367ed",
+          "required": true,
+          "dataType": "@Rio",
+          "name": "rio",
+          "value": "$rio",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "talk to rio"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

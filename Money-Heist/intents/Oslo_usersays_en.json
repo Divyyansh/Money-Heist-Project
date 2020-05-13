@@ -1,0 +1,42 @@
+[
+  {
+    "id": "8fdb2e57-5ae1-4825-8669-3a7205cb948e",
+    "data": [
+      {
+        "text": "speak to ",
+        "userDefined": false
+      },
+      {
+        "text": "oslo",
+        "alias": "oslo",
+        "meta": "@Oslo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "10b59655-a245-44fb-ba43-34c1dfd699ce",
+    "data": [
+      {
+        "text": "talk to ",
+        "userDefined": false
+      },
+      {
+        "text": "powerful",
+        "alias": "oslo",
+        "meta": "@Oslo",
+        "userDefined": false
+      },
+      {
+        "text": " guy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

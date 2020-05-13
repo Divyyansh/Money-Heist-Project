@@ -1,0 +1,50 @@
+{
+  "id": "297a5f26-b159-4c23-96c7-c4481526789a",
+  "name": "Helsinki",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6f664c42-ccf1-4b7a-b624-94995eae7be2",
+          "required": true,
+          "dataType": "@Helsinki",
+          "name": "helsinki",
+          "value": "$helsinki",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Talk to helsinki"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

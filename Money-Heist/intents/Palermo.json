@@ -1,0 +1,50 @@
+{
+  "id": "750e9f4b-eddc-4d59-93e9-39a165c09112",
+  "name": "Palermo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c3694506-bc8d-44a4-819e-ffdea277d95c",
+          "required": true,
+          "dataType": "@Palermo",
+          "name": "Palermo",
+          "value": "$Palermo",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Talk to Palermo"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

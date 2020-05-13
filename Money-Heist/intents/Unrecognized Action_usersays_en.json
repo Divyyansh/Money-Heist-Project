@@ -1,0 +1,30 @@
+[
+  {
+    "id": "d105c750-0ffb-4f9d-bdb3-3fa823fcc088",
+    "data": [
+      {
+        "text": "laptop",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "25eb3cb3-3816-4f57-9b62-2cc1723bf36c",
+    "data": [
+      {
+        "text": "window",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "id": "7968b254-9737-4fc3-acea-a7f63c920e85",
+  "name": "Berlin",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a7aef416-44fd-4609-acd2-424de41ee6c4",
+          "required": true,
+          "dataType": "@Berlin",
+          "name": "berlin",
+          "value": "$berlin",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Talk to berlin"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

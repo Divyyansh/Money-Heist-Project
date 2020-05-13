@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ff69684e-d4c8-464c-9e75-717a27b7537f",
+    "data": [
+      {
+        "text": "Mistake",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "908fbf1c-b306-4b28-a125-8df00bf74055",
+    "data": [
+      {
+        "text": "Punish",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b59b2d53-65c1-4939-98d6-76a8d9509c69",
+    "data": [
+      {
+        "text": "Punishment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

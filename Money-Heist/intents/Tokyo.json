@@ -1,0 +1,50 @@
+{
+  "id": "1ed47e13-1958-4eb7-a933-fa633ad79716",
+  "name": "Tokyo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "53b3e555-f60b-460e-a2f0-c55f3224e6fb",
+          "required": true,
+          "dataType": "@Tokyo",
+          "name": "tokyo",
+          "value": "$tokyo",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "talk to tokyo"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "ba5a2c4a-8358-4f20-86cc-65becf1995b1",
+    "data": [
+      {
+        "text": "Raquel",
+        "alias": "raquel",
+        "meta": "@Raquel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31b1b20d-7bc9-4852-894f-4fcefc9bd980",
+    "data": [
+      {
+        "text": "Lisbon",
+        "alias": "raquel",
+        "meta": "@Raquel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "da6edd95-e58d-4bba-8335-ac599ea153f6",
+    "data": [
+      {
+        "text": "Talk to ",
+        "userDefined": false
+      },
+      {
+        "text": "Lisbon",
+        "alias": "raquel",
+        "meta": "@Raquel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0241b318-11db-4ef0-91db-c5b82f8a6ae9",
+    "data": [
+      {
+        "text": "Talk to ",
+        "userDefined": false
+      },
+      {
+        "text": "murillo",
+        "alias": "raquel",
+        "meta": "@Raquel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "373eedfd-4ea3-46e5-a7ab-62ad00791de2",
+    "data": [
+      {
+        "text": "Speak to ",
+        "userDefined": false
+      },
+      {
+        "text": "inspector",
+        "alias": "raquel",
+        "meta": "@Raquel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b6ecbcc9-2e5b-44f4-8844-3626321e8974",
+    "data": [
+      {
+        "text": "Talk to ",
+        "userDefined": false
+      },
+      {
+        "text": "raquel",
+        "alias": "raquel",
+        "meta": "@Raquel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

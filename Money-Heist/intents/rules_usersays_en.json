@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15cabc29-8f48-49fc-9b50-72a47ae4c145",
+    "data": [
+      {
+        "text": "actions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9b8fbea3-f153-4ab9-9593-9771ad7a759c",
+    "data": [
+      {
+        "text": "rules",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

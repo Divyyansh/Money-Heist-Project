@@ -1,0 +1,9 @@
+{
+  "id": "b5c89bb9-ab0d-4652-9c98-896ae713d21c",
+  "name": "Denver",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

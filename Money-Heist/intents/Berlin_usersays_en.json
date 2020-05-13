@@ -1,0 +1,92 @@
+[
+  {
+    "id": "11570b0c-e0d9-4d16-8f72-2e3e8677bdaf",
+    "data": [
+      {
+        "text": "Berlin",
+        "alias": "berlin",
+        "meta": "@Berlin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "23c1123c-7a03-410c-b674-c86edbd373d6",
+    "data": [
+      {
+        "text": "Bring me ",
+        "userDefined": false
+      },
+      {
+        "text": "andres",
+        "alias": "berlin",
+        "meta": "@Berlin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4d54cbd8-6ab3-4078-9a82-7c318879b583",
+    "data": [
+      {
+        "text": "Let\u0027s talk to ",
+        "userDefined": false
+      },
+      {
+        "text": "fonollosa",
+        "alias": "berlin",
+        "meta": "@Berlin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bf5c124a-99f1-4ffc-a051-c772cd284fce",
+    "data": [
+      {
+        "text": "Speak to the ",
+        "userDefined": false
+      },
+      {
+        "text": "incharge",
+        "alias": "berlin",
+        "meta": "@Berlin",
+        "userDefined": false
+      },
+      {
+        "text": " of royal mint heist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "44397362-f241-4330-bd58-91a2dade3e49",
+    "data": [
+      {
+        "text": "Hey, talk to ",
+        "userDefined": false
+      },
+      {
+        "text": "berlin",
+        "alias": "berlin",
+        "meta": "@Berlin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "d3aefe38-fafd-498a-8fa0-ac09048cc96d",
+    "data": [
+      {
+        "text": "talk to ",
+        "userDefined": false
+      },
+      {
+        "text": "Moscow",
+        "alias": "moscow",
+        "meta": "@Moscow",
+        "userDefined": false
+      },
+      {
+        "text": " who digs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "babc4f10-0cdb-4b1b-9ad2-0198fc268042",
+    "data": [
+      {
+        "text": "talk to the ",
+        "userDefined": false
+      },
+      {
+        "text": "miner",
+        "alias": "moscow",
+        "meta": "@Moscow",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

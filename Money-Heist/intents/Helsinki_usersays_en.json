@@ -1,0 +1,56 @@
+[
+  {
+    "id": "e63ea25f-32d0-4e5c-bc3e-5059d581cfe6",
+    "data": [
+      {
+        "text": "helsinki",
+        "alias": "helsinki",
+        "meta": "@Helsinki",
+        "userDefined": false
+      },
+      {
+        "text": " is my favourite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "67a293fe-5cb8-45df-bae3-0398b8f16df6",
+    "data": [
+      {
+        "text": "let\u0027s call ",
+        "userDefined": false
+      },
+      {
+        "text": "serbian soldier",
+        "alias": "helsinki",
+        "meta": "@Helsinki",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a0ae4696-ff86-4c9f-990c-25ed166bb755",
+    "data": [
+      {
+        "text": "talk to the brave ",
+        "userDefined": false
+      },
+      {
+        "text": "soldier",
+        "alias": "helsinki",
+        "meta": "@Helsinki",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

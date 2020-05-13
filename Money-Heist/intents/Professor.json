@@ -1,0 +1,50 @@
+{
+  "id": "25cf42d7-bc5a-4faf-b382-7015fc518d16",
+  "name": "Professor",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d6ecd345-3664-49c2-bba4-72f52b91df18",
+          "required": true,
+          "dataType": "@Professor",
+          "name": "professor",
+          "value": "$professor",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Talk to Professor"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

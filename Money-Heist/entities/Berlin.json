@@ -1,0 +1,9 @@
+{
+  "id": "c35a1ed1-66a3-4350-9ecb-b89bf33064ac",
+  "name": "Berlin",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

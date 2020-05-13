@@ -1,0 +1,128 @@
+[
+  {
+    "id": "1ee20084-afa7-4ced-a873-c9f181f34559",
+    "data": [
+      {
+        "text": "where is ",
+        "userDefined": false
+      },
+      {
+        "text": "salva",
+        "alias": "professor",
+        "meta": "@Professor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ba9c509f-af9c-465b-bc21-f08d20be7ffb",
+    "data": [
+      {
+        "text": "My favorite character is ",
+        "userDefined": false
+      },
+      {
+        "text": "professor",
+        "alias": "professor",
+        "meta": "@Professor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2e147497-ffa3-43e2-9beb-65f7b2ee2547",
+    "data": [
+      {
+        "text": "I like ",
+        "userDefined": false
+      },
+      {
+        "text": "professor",
+        "alias": "professor",
+        "meta": "@Professor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ea25ffdb-0c4b-4cc6-85f9-bf4a7839c3a1",
+    "data": [
+      {
+        "text": "Talk to the ",
+        "userDefined": false
+      },
+      {
+        "text": "mastermind",
+        "alias": "professor",
+        "meta": "@Professor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dac06cb6-8863-4e4d-a005-93a2a55f1e3a",
+    "data": [
+      {
+        "text": "Bring me the ",
+        "userDefined": false
+      },
+      {
+        "text": "professor",
+        "alias": "professor",
+        "meta": "@Professor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "609a5991-4f26-41ca-9a61-aec04b0de031",
+    "data": [
+      {
+        "text": "Speak to ",
+        "userDefined": false
+      },
+      {
+        "text": "Sergio",
+        "alias": "professor",
+        "meta": "@Professor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "764c442c-aa42-485c-a878-83c23a5cbd55",
+    "data": [
+      {
+        "text": "Talk to ",
+        "userDefined": false
+      },
+      {
+        "text": "professor",
+        "alias": "professor",
+        "meta": "@Professor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

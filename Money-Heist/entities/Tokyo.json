@@ -1,0 +1,9 @@
+{
+  "id": "c09c6eda-a791-49ed-bdd3-089ea0ecbef1",
+  "name": "Tokyo",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1c26d1ad-31fc-4efa-b26c-d6f3e13ba0a5",
+    "data": [
+      {
+        "text": "Threatning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3adcdc47-0a02-4b80-a7c6-b7cf8ad031a0",
+    "data": [
+      {
+        "text": "Terrify",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1844f9fc-f689-4a92-8259-324f2b8329f7",
+    "data": [
+      {
+        "text": "Terrifying",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
